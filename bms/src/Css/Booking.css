@@ -1,0 +1,111 @@
+@media only screen and (min-width: 481px) and (max-width: 2048px) and (max-height: 990px){
+    .Booking-container{
+      width: 80%;
+      height: auto;
+      margin: 5vh  auto;
+      background-color: whitesmoke;
+      border-radius: 10px;
+      box-shadow: 10px 10px 20px 20px rgb(202, 202, 250);
+  }
+
+  input[type="date"]{
+      width: 90%;
+      padding: 5px;
+      border-radius: 5px;
+      margin-left: 30px;
+      font-size: 15px;
+      border: 1px solid black;
+
+  
+    }
+    input[type="time"]{
+      width: 90%;
+      padding: 5px;
+      border-radius: 5px;
+      margin-left: 30px;
+      font-size: 15px;
+      border: 1px solid black;
+
+  
+    }
+    input[type="text"],
+    input[type="email"]{
+      width: 90%;
+      padding: 5px;
+      border-radius: 5px;
+      margin-left: 30px;
+      margin-top: 10px;
+      font-size: 15px;
+      border: 1px solid black;
+    }
+    input[type="password"]{
+      width: 90%;
+      padding: 5px;
+      border-radius: 5px;
+      margin-top: 10px;
+      margin-left: 30px;
+      font-size: 15px;
+  
+      border: 1px solid black;
+  
+    }
+    input[type="mobile"]{
+      width: 90%;
+      padding: 5px;
+      border-radius: 5px;
+      margin-top: 10px;
+      margin-left: 30px;
+      font-size: 15px;
+      border: 1px solid black;
+  
+    }
+    .select{
+    
+        width: 90%;
+        padding: 5px;
+        border-radius: 5px;
+        margin-left: 30px;
+        font-size: 15px;
+        border: 1px solid black;
+  
+    
+      
+
+    }
+    #name, #email, #username, #regnumber, #course, #phonenumber, #password{
+      width: 80%;
+      padding: 5px;
+      font-size: 20px;
+  
+    }
+    input[type="submit"]{
+      width: 20%;
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 10px;
+      margin-left: 50vh;
+    background-color: rgb(1, 1, 90);
+      color: white;
+      border: 1px solid white;
+      border-radius: 10px;
+      font-size: 15px;
+    }
+    form{
+      width: 70%;
+    }
+    form h2{
+      text-align: center;
+      padding-top: 1%;
+      padding-bottom: 50px;
+      font-size: 25px;
+  
+      
+    }
+    form p{
+      text-align: center;
+      font-size: 20px;
+      margin-top: 10px;
+      text-decoration: none;
+      
+    }
+  }
